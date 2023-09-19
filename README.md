@@ -13,4 +13,5 @@
 
 # More to come soon<sup>TM</sup>
 [View my Linked In](https://www.linkedin.com/in/david-wg2/)
+
 [View my Digital Portfolio Website](https://sites.google.com/g.rit.edu/davidgirard)
