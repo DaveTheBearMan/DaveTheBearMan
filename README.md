@@ -1,2 +1,3 @@
 # whoami
-- A cool fella not a fart smella.
+- Freshman in Cybersecurity
+- Primarily infastructure based
